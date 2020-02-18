@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e655ecf6-623b-4f35-a407-168816097231" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/webapp" beforeDir="false" afterPath="$PROJECT_DIR$/webapp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webapp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webapp/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/index.js" afterDir="false" />
@@ -190,7 +191,7 @@
       <workItem from="1580801271241" duration="1467000" />
       <workItem from="1581874829627" duration="907000" />
       <workItem from="1581947107174" duration="30000" />
-      <workItem from="1581965201726" duration="610000" />
+      <workItem from="1581965201726" duration="629000" />
     </task>
     <servers />
   </component>
