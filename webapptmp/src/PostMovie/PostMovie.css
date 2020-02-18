@@ -1,0 +1,41 @@
+/*.listArea{
+    background-color: aquamarine;
+    width: auto;
+    text-align: center;
+}*/
+
+li{
+    background-color: aquamarine;
+    font-size: 15px;
+    font-weight: bold;
+    list-style-type: none;
+    width: 75%;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.flexRow{
+    display: flex;
+}
+
+.removeButton{
+    width: 10%;
+    height: 5%;
+    background-color: aquamarine;
+    color: white;
+    text-align:center;
+    line-height:30px;
+    border-radius: 30px;
+}
+
+.nameAndButton{
+    width: 25%;
+    height: 25%;
+    text-align: center;
+    display: inline-block;
+    float: left;
+    padding-top: 3%;
+}
